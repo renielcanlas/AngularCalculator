@@ -1,0 +1,32 @@
+.calc-body {
+    background: gray;
+    padding: 10px;
+    width: 300px;
+    margin: auto auto;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.calc-screen {
+    background: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.calc-screen input {
+    text-align: right;
+    width: 100%;
+    color: slategray;
+}
+
+.calc-buttons {
+    background: lightslategray;
+    padding: 1px;
+    margin-top: 10px;
+}
+
+.calc-buttons button {
+    width: 65px;
+    margin: 2px;
+}
